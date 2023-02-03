@@ -1,5 +1,6 @@
 
-
+const ourGroup ={fisrtmember: {    name: "Anamaria",    surname:"Sulikashvili",    age :19,},secondmember:{    name:"Shota",    Surname:"Alania",    age:24,},thirdmember:{    name:"Aleqsandre",    surname:"Afaqidze",    age:20,}
+};console.log(ourGroup);
  drinks = [
     { name:"cola", price: 25 },
     { name:"pepsi", price: 20 },
